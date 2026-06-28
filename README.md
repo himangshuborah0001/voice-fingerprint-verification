@@ -6,7 +6,7 @@ An end-to-end, lightweight speaker verification prototype optimized for zero-dep
 ## 🚀 Live Interactive Deployment
 You can run and test this software live in your browser without any local installation:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_GOOGLE_COLAB_SHARE_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/himangshuborah0001/voice-fingerprint-verification/blob/main/Ai_voice_identification_system.ipynb)
 
 *(Click the badge above to open the interactive UI form directly on your device)*
 
